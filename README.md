@@ -123,3 +123,15 @@ Findings:
 - GPU acceleration for embeddings
 - Transformer-based temporal reasoning
 - Scalable cloud vector database integration
+
+---
+
+video:
+- 
+
+https://github.com/user-attachments/assets/c237d3fd-ef09-4ab5-9845-5dd77e449b98
+
+
+
+
+
